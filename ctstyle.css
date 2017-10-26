@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#fs {
+  font-family: 'Aldrich', sans-serif;
+}
+
+#logo {
+max-width: 22em;
+max-height: 10em;
+padding: 2px;
+}
+
+div p .grey-text {
+  font-size: 1.5em;
+}
+
+#maincoll.collection {
+  border: none;
+}
+
+#construct {
+  display: inline-block;
+}
+
+#footer {
+  margin: 0;
+  padding: 10px;
+}
